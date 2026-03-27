@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Enrico Augusto Alagao a BSIT student in ISAT currently a 4th year.
-- 👀 I’m interested in learning web development 
+- 👀 I’m interested in learning data analytics and data science
 - 🌱 I’m currently learning python
 - 📫 Reach me in my email  TW:https://twitter.com/EnricoAugusto3 FB:https://www.facebook.com/enricoaugusto.alagao email:enricoalagao@gmail.com
 
